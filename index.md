@@ -21,6 +21,9 @@ Este es un párrafo de texto con **negrita** y *cursiva*.
 [Visita OpenAI](https://openai.com)
 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+
 ### Bloque de código
 
 ```python
