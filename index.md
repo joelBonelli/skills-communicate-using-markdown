@@ -29,3 +29,8 @@ Este es un párrafo de texto con **negrita** y *cursiva*.
 ```python
 def saludo():
     print("¡Hola, mundo!")
+```
+
+``` javascript
+var myVar = "Hello, world!";
+```
